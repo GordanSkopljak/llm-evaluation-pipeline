@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "letter": "Dear Mr Vogel,\n\nRe: Consumer credit application, reference KA-2026-04471\n\nThank you for your application for a personal loan of EUR 12,000 over 48 months. We have completed our assessment and we regret to inform you that we are unable to approve your application at this time.\n\nOur decision was based on the credit score returned by the credit reference agency we consulted. The score recorded for you falls below the minimum threshold we apply to unsecured lending of this size. You have the right to be informed that we consulted SCHUFA Holding AG in reaching this decision, and you may request a copy of your record directly from them free of charge once per year.\n\nIf you believe the assessment does not reflect your circumstances, you may request that a member of our credit team review the decision manually. Please contact us within 30 days and a case handler will look at your file personally.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "credit_score",
+    "manual_review_offered": "yes",
+    "difficulty": "clear"
+  },
+  {
+    "id": 2,
+    "letter": "Dear Ms Brandt,\n\nRe: Your application dated 3 March 2026\n\nWe write concerning your recent application for financing. Following our standard assessment procedure we are not able to make you an offer.\n\nThe information obtained from the credit reference agency during our checks did not meet the profile we require for this product. We are not permitted to disclose the detail of that information, but you are entitled to obtain your record directly from the agency, and we would encourage you to do so if you wish to understand the assessment better.\n\nWe recognise this will be disappointing. Your relationship with us is otherwise in good standing and this decision relates only to the product applied for. You are welcome to apply again in the future should your circumstances change.\n\nThis decision concludes our assessment of the application.\n\nYours sincerely,\nCustomer Lending",
+    "reason_code": "credit_score",
+    "manual_review_offered": "no",
+    "difficulty": "ambiguous"
+  },
+  {
+    "id": 3,
+    "letter": "Dear Mr Okonkwo,\n\nRe: Personal loan application KA-2026-04512\n\nThank you for applying for a personal loan of EUR 20,000. After careful assessment we are unable to approve your application.\n\nThe reason for our decision is the level of your existing monthly credit commitments relative to your monthly net income. Taking your declared obligations together with the repayment on the loan applied for, the total would exceed the maximum share of income we permit for responsible lending. This limit applies to all applicants and is not a judgement about your individual reliability.\n\nYou may wish to consider applying again once one or more of your existing agreements has been settled, as this would change the calculation materially.\n\nThis letter completes our handling of your application.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "debt_to_income",
+    "manual_review_offered": "no",
+    "difficulty": "clear"
+  },
+  {
+    "id": 4,
+    "letter": "Dear Ms Lindqvist,\n\nRe: Application for financing, reference KA-2026-04533\n\nThank you for your recent application. We are sorry to say we cannot proceed on the terms requested.\n\nYour income is well established and your employment record raised no concerns. The difficulty lies elsewhere. When we placed the proposed repayment alongside the commitments already recorded against your name, the combined monthly burden left a margin narrower than our lending standards allow. In short, it is the weight of what you already carry rather than what you earn.\n\nIf you consider that some of the recorded commitments are settled or misstated, one of our credit officers will gladly re examine your file. Please write to us and we will arrange for a second look by a colleague who was not involved in the original assessment.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "debt_to_income",
+    "manual_review_offered": "yes",
+    "difficulty": "ambiguous"
+  },
+  {
+    "id": 5,
+    "letter": "Dear Mr Haddad,\n\nRe: Consumer credit application KA-2026-04558\n\nThank you for your application for a loan of EUR 15,000 over 60 months. We have assessed your application and regret that we cannot approve it.\n\nOur decision is based on your declared net monthly income, which is below the minimum we require for a loan of this amount and term. The shortfall relates to the income figure itself and not to your existing borrowing, which we found to be modest.\n\nShould you wish, you may ask us to reconsider. If you have income from sources not included in your original application, such as regular secondary employment or maintenance payments, send us the supporting documents and a credit officer will review the decision manually within ten working days.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "insufficient_income",
+    "manual_review_offered": "yes",
+    "difficulty": "clear"
+  },
+  {
+    "id": 6,
+    "letter": "Dear Ms Nowak,\n\nRe: Your loan application of 11 February 2026\n\nWe have now concluded our review of your application and are unable to make an offer.\n\nThe principal difficulty is that the earnings you declared do not reach the level we require for the sum requested. We also note that you have been in your current position for a relatively short period, although this alone would not have prevented an offer.\n\nWe would be glad to consider a smaller amount, which may fall within the range your current income supports. A new application would be required for this.\n\nOur assessment of the present application is now closed.\n\nYours sincerely,\nCustomer Lending",
+    "reason_code": "insufficient_income",
+    "manual_review_offered": "no",
+    "difficulty": "ambiguous"
+  },
+  {
+    "id": 7,
+    "letter": "Dear Mr Fischer,\n\nRe: Personal loan application KA-2026-04601\n\nThank you for your application. We are unable to approve it at this time.\n\nOur lending criteria require applicants to have been in continuous employment for at least twelve months. Your application records four months in your current role following a period of unemployment. Your income level and your credit record both met our requirements, and this decision rests solely on the employment history criterion.\n\nWe would welcome a further application once you have completed twelve months of continuous employment.\n\nThis concludes our assessment.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "employment_history",
+    "manual_review_offered": "no",
+    "difficulty": "clear"
+  },
+  {
+    "id": 8,
+    "letter": "Dear Ms Petrova,\n\nRe: Application reference KA-2026-04617\n\nThank you for applying. Regrettably we cannot offer you the loan requested.\n\nYour application shows that you remain within the probationary period of your present contract. Our standards treat employment as settled only once that period has ended, and we are therefore unable to treat your salary as secure for the purposes of this assessment. We also observed a small number of older entries on your credit record, though these were not decisive.\n\nIf your probationary period has since concluded, or if your employer is willing to confirm in writing that your position is permanent, please send us that confirmation. A credit officer will then reassess your file personally.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "employment_history",
+    "manual_review_offered": "yes",
+    "difficulty": "ambiguous"
+  },
+  {
+    "id": 9,
+    "letter": "Dear Mr Yilmaz,\n\nRe: Loan application KA-2026-04644\n\nThank you for your application for a personal loan of EUR 8,000.\n\nWe are unable to proceed because your application is incomplete. The following items were requested but have not been received: your last three salary statements and a copy of a valid identity document. Without these we cannot carry out the checks the law requires of us, and we have therefore closed the application without assessing your creditworthiness.\n\nThis is not a decision about your credit standing. If you send the outstanding documents, a member of our team will reopen and review your file without the need for a new application.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "incomplete_application",
+    "manual_review_offered": "yes",
+    "difficulty": "clear"
+  },
+  {
+    "id": 10,
+    "letter": "Dear Ms Sorensen,\n\nRe: Your recent financing request\n\nWe have reviewed the material submitted with your request and are unable to take it forward.\n\nWe were not able to verify the details you provided. Several of the supporting items we require were either absent or illegible, and the figures we could read could not be reconciled with the declarations on the form. In these circumstances we are obliged to discontinue our assessment.\n\nWe have not formed any view on your creditworthiness and no assessment has been recorded against you.\n\nA fresh request may be submitted at any time through our usual channels.\n\nYours sincerely,\nCustomer Lending",
+    "reason_code": "incomplete_application",
+    "manual_review_offered": "no",
+    "difficulty": "ambiguous"
+  },
+  {
+    "id": 11,
+    "letter": "Dear Mr Weber,\n\nRe: Secured vehicle loan application KA-2026-04688\n\nThank you for your application for a secured loan of EUR 18,000 against the vehicle described in your application.\n\nWe are unable to approve the application. Our independent valuation of the vehicle returned a figure materially below the amount you wish to borrow, and the security offered therefore does not cover the exposure to the standard we require. Your income and credit record were both satisfactory.\n\nWe would consider an application for a lower sum consistent with the valuation obtained, or an application supported by different security.\n\nThis concludes our handling of the present application.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "collateral_value",
+    "manual_review_offered": "no",
+    "difficulty": "clear"
+  },
+  {
+    "id": 12,
+    "letter": "Dear Ms Ferreira,\n\nRe: Application reference KA-2026-04702\n\nThank you for your application. We are sorry that we cannot make you an offer on this occasion.\n\nThe property you offered in support of the application was inspected on our behalf. The report we received placed its condition and market position some way below what we had understood from the application, and on that basis the cover available to us falls short of the sum requested. Your personal financial position was not the obstacle here.\n\nIf you hold a recent independent valuation that reaches a different conclusion, send it to us and one of our secured lending officers will review the file again personally.\n\nYours sincerely,\nSecured Lending",
+    "reason_code": "collateral_value",
+    "manual_review_offered": "yes",
+    "difficulty": "ambiguous"
+  },
+  {
+    "id": 13,
+    "letter": "Dear Mr Adeyemi,\n\nRe: Consumer credit application KA-2026-04730\n\nThank you for your application for a personal loan of EUR 10,000. We are unable to approve it.\n\nThe decision follows from the credit score we obtained from the credit reference agency, which falls below our lending threshold for this product. In accordance with our obligations we confirm that SCHUFA Holding AG was consulted.\n\nIf you are dissatisfied with the way your application was handled, you may raise a complaint with our customer complaints office at the address above, and you may also refer the matter to the banking ombudsman scheme of which we are a member. Please note that these procedures address the handling of your application and cannot alter the lending decision itself.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "credit_score",
+    "manual_review_offered": "no",
+    "difficulty": "clear"
+  },
+  {
+    "id": 14,
+    "letter": "Dear Ms Kaufmann,\n\nRe: Your application of 19 January 2026\n\nWe have completed our assessment and cannot make an offer.\n\nYou earn well and your employment is secure. The obstacle is arithmetic. Once the instalments on your existing agreements are set against your monthly net figure, the room remaining is not sufficient to absorb a further commitment of the size proposed, and we would not be lending responsibly if we ignored that.\n\nWe would look at this differently once your current agreements are further advanced or settled.\n\nOur file on this application is now closed.\n\nYours sincerely,\nCustomer Lending",
+    "reason_code": "debt_to_income",
+    "manual_review_offered": "no",
+    "difficulty": "ambiguous"
+  },
+  {
+    "id": 15,
+    "letter": "Dear Mr Rossi,\n\nRe: Personal loan application KA-2026-04766\n\nThank you for your application for a loan of EUR 25,000 over 72 months.\n\nWe are unable to approve the application. The net monthly income stated in your application is below the minimum we require for a facility of this size, and the shortfall is significant rather than marginal. Your credit record and your employment history both met our criteria without difficulty.\n\nIf your income has increased since you applied, or if you receive regular income that was not declared, please send us documentary evidence. A credit officer will then carry out a manual review of your application and write to you with the outcome.\n\nYours sincerely,\nKreditabteilung",
+    "reason_code": "insufficient_income",
+    "manual_review_offered": "yes",
+    "difficulty": "clear"
+  }
+]
