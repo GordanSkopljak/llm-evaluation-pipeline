@@ -1,7 +1,10 @@
-**Lab:** Micromanage your agents · Module 5, Evaluation & strategy · Week 7, Day 4
-**Submission by:** GordanSkopljak
+# LLM evaluation pipeline
 
-# Custom Dataset Creation and Evaluation with LangSmith
+An OpenAI model extracts the rejection reason and review offer from bank loan rejection letters. Four evaluators score every output: two deterministic field checks, a `gpt-4o-mini` judge, and an independent DeepSeek judge that controls for a model grading its own family. The first dataset scored 15 out of 15 on everything, so I rewrote it to be harder rather than loosening the metric.
+
+Built with LangSmith and `openevals`. Originally submitted as the Ironhack lab *Micromanage your agents* (Module 5, Evaluation & strategy, Week 7, Day 4).
+
+## Custom Dataset Creation and Evaluation with LangSmith
 
 ## Domain
 
